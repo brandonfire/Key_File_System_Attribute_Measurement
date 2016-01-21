@@ -1,0 +1,10 @@
+Tool box for measuring file system.
+
+p5.c contains a file creator, a file reader counter and a counter for write time of certain blocks. It could record the initial read time or repeat read time for size 1 byte to 32 MB. It also measure first 30 block write time.
+
+
+
+
+Simply type "> ./make" to complie.
+
+to make a series test, type ./p5
